@@ -33,12 +33,11 @@
 
 # LaTeX Files
 *.aux
-
 *.log
-
 *.synctex.gz
-
 *.toc
 
-*.o
+# CLion stuff
+bin/cmake-build-debug
+bin/.idea
 
